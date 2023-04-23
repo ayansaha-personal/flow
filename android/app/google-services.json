@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "300761456053",
+    "project_id": "the-burgeon-flow",
+    "storage_bucket": "the-burgeon-flow.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300761456053:android:45122dec62fb79861e0dfc",
+        "android_client_info": {
+          "package_name": "in.theburgeon.flow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300761456053-itv0djosvu0jr9m5sulj2d5gb8g58nrf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnyujXk_q9Lcbn_OEMHmmxrj0tcAR3vHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300761456053-83c95kqu6q42btsqnhotn20pup43o0gv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "300761456053-dja3hmk2ijfd9pk054149rkrkok3hjod.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.theburgeon.flow"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
